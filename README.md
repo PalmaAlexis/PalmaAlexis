@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alexis Palma</h1>
-<h3 align="center">An enthusiast Junior Back End Developer from Mexico</h3>
+<h3 align="center">An enthusiast Junior Back End Developer from México</h3>
 
 - 🌱 I’m currently learning **Back End, Spring Boot, Java**
 
 - 💬 Ask me about **Back End**
 
-- 📫 How to reach me **palmaalexis017@gmail.com**
+- 📫 How to reach me **palmaalexis017@gmail.com, +52 55 7672 5384**
 
 - ⚡ Fun fact **I think I'm a fast learner, I wan't to improve my Spring Boot skills**
 
