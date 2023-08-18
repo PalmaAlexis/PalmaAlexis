@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis Palma</h1>
-<h3 align="center">An enthusiast Junior Back End Developer from México</h3>
+<h3 align="center">An enthusiast Junior Back End Developer from Mexico</h3>
 
 - 🌱 I’m currently learning **Back End, Spring Boot, Java**
 
