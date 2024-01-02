@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexis Palma</h1>
 <h3 align="center">An enthusiast Junior Back End Developer from Mexico</h3>
 
-- 🌱 I’m currently learning **Back End, Spring Boot, Java**
+- 🌱 I’m currently improving my skills on **Spring Boot Cloud, Eureka, consuming API,
+ Load Balancer, Zuul y Histrix, Gateway y Resilience4J, JWT, Spring Security, Oauth 2.0,
+ Data Base: SQL, PostgreSQL, Sleuth, Zipkin, RabbitMQ y Docker containers**
 
 - 💬 Ask me about **Back End**
 
@@ -19,3 +21,4 @@
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 
+ 
