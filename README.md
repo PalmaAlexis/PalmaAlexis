@@ -2,14 +2,14 @@
 <h3 align="center">An enthusiast Junior Back End Developer from Mexico</h3>
 
 - 🌱 I’m currently improving my skills on **Spring Boot Cloud, Eureka, consuming API,
- Load Balancer, Zuul y Histrix, Gateway y Resilience4J, JWT, Spring Security, Oauth 2.0,
+ Load Balancer, Zuul y Histrix, Gateway y Resilience4J,Spring Security, JWT, Oauth 2.0,
  Data Base: SQL, PostgreSQL, Sleuth, Zipkin, RabbitMQ y Docker containers**
 
-- 💬 Ask me about **Back End**
+- 💬 Ask me about **Java, Spring Cloud**
 
 - 📫 How to reach me **palmaalexis017@gmail.com, +52 55 7672 5384**
 
-- ⚡ Fun fact **I think I'm a fast learner, I wan't to improve my Spring Boot skills**
+- ⚡ A fact **I'm a fast learner and workaholic 👨🏻‍💻👨🏻‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
