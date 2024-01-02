@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently improving my skills on **Microservices, Spring Boot Cloud, Eureka, consuming API,
  Load Balancer, Zuul y Histrix, Gateway y Resilience4J,Spring Security, JWT, Oauth 2.0,
- Data Base: SQL, PostgreSQL, Sleuth, Zipkin, RabbitMQ y Docker containers**
+ Data Bases: SQL, PostgreSQL, Sleuth, Zipkin, RabbitMQ and Docker containers**
 
-- 💬 Ask me about **Java, Spring Cloud**
+- 💬 Ask me about **Java, Spring Cloud, Microservices**
 
 - 📫 How to reach me **palmaalexis017@gmail.com, +52 55 7672 5384**
 
