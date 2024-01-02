@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **palmaalexis017@gmail.com, +52 55 7672 5384**
 
-- ⚡ A fact **I'm a fast learner and workaholic 👨🏻‍💻👨🏻‍💻**
+- ⚡ A fact **I'm a fast learner, eager to learn and a proactive person 👨🏻‍💻👨🏻‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
