@@ -2,7 +2,7 @@
 <h1 align="center">HELLO 👋, This is Alexis Palma 👨🏻‍💻👨🏻‍💻</h1>
 <h3 align="center">An enthusiast Junior Back End Developer from Mexico</h3>
 
-- 🌱 I’m currently improving my skills on **Spring Boot Cloud, Eureka, consuming API,
+- 🌱 I’m currently improving my skills on **Microservices, Spring Boot Cloud, Eureka, consuming API,
  Load Balancer, Zuul y Histrix, Gateway y Resilience4J,Spring Security, JWT, Oauth 2.0,
  Data Base: SQL, PostgreSQL, Sleuth, Zipkin, RabbitMQ y Docker containers**
 
