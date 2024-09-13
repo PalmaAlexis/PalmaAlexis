@@ -1,4 +1,3 @@
-
 <h1 align="center">HELLO 👋, This is Alexis Palma 👨🏻‍💻👨🏻‍💻</h1>
 <h3 align="center">An enthusiast Full Stack Developer</h3>
 
