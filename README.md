@@ -1,74 +1,80 @@
 <h1 align="center">Hi 👋, I'm Alexis Palma</h1>
+
 <h3 align="center">Software Engineer | Backend & Full Stack Developer</h3>
+
 <p align="center">
   Building scalable backend systems and modern applications with Java, Spring Boot, TypeScript and React.
 </p>
 
-⸻
+---
 
-👨🏻‍💻 About me
+### 👨🏻‍💻 About me
 
-I’m a Software Engineer III from Mexico 🇲🇽 with professional experience building and maintaining production software.
+I'm a **Software Engineer III** from Mexico 🇲🇽 with professional experience building and maintaining production software.
 
-My main focus is backend engineering, although I enjoy working across the stack and understanding how complete systems fit together — from APIs and architecture to frontend applications and infrastructure.
+My main focus is **backend engineering**, although I enjoy working across the stack and understanding how complete systems fit together — from APIs and architecture to frontend applications and infrastructure.
 
-* ☕ Building backend services with Java 21 & Spring Boot
-* 🟦 Working with TypeScript, Node.js & NestJS
-* ⚛️ Experience with React & React Native
-* 🏗️ Interested in Software Architecture, DDD & Hexagonal Architecture
-* 📡 Working with distributed systems, REST APIs, Kafka & caching
-* 🗄️ Experience with PostgreSQL & SQL Server
-* ☁️ Familiar with cloud environments, CI/CD and production systems
-* 🧪 Strong believer in clean code, testing and maintainable software
-* 🌱 Currently deepening my knowledge of system design and scalable architectures
+- ☕ Building backend services with **Java 21 & Spring Boot**
+- 🟦 Working with **TypeScript, Node.js & NestJS**
+- ⚛️ Experience with **React & React Native**
+- 🏗️ Interested in **Software Architecture, DDD & Hexagonal Architecture**
+- 📡 Working with distributed systems, **REST APIs, Kafka & caching**
+- 🗄️ Experience with **PostgreSQL & SQL Server**
+- ☁️ Familiar with cloud environments, CI/CD and production systems
+- 🧪 Strong believer in clean code, testing and maintainable software
+- 🌱 Currently deepening my knowledge of **system design and scalable architectures**
 
-⸻
+---
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-Backend
+#### Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,ts" />
 </p>
 
-Frontend & Mobile
+#### Frontend & Mobile
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 </p>
 
-Databases & Infrastructure
+#### Databases & Infrastructure
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,docker,kafka,gcp" />
 </p>
 
-Tools
+#### Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
-⸻
+---
 
-🧠 What I enjoy working on
+### 🧠 What I enjoy working on
 
+```text
 Backend Engineering        ████████████████████
 Software Architecture      ██████████████████░░
 Distributed Systems        █████████████████░░░
 Full Stack Development     ████████████████░░░░
 Mobile Development         █████████████░░░░░░░
+```
 
-I particularly enjoy solving problems around API design, application architecture, performance, data processing and maintainability.
+I particularly enjoy solving problems around **API design, application architecture, performance, data processing and maintainability**.
 
-I like understanding not only how something works, but why it should be designed that way.
+I like understanding not only *how* something works, but **why it should be designed that way**.
 
-⸻
+---
 
-🚀 Engineering interests
+### 🚀 Engineering interests
 
+```java
 public class Alexis {
+
     String[] currentlyWorkingWith = {
         "Java 21",
         "Spring Boot",
@@ -77,6 +83,7 @@ public class Alexis {
         "NestJS",
         "React"
     };
+
     String[] interestedIn = {
         "System Design",
         "Distributed Systems",
@@ -84,22 +91,24 @@ public class Alexis {
         "Hexagonal Architecture",
         "Cloud Architecture"
     };
+
     String mindset = "Build it. Understand it. Improve it.";
 }
+```
 
-⸻
+---
 
-🎓 Background
+### 🎓 Background
 
-Instituto Politécnico Nacional
+**Instituto Politécnico Nacional**  
 Engineering in Communications & Electronics — Computing specialization
 
-Universidad Politécnica de Madrid 🇪🇸
+**Universidad Politécnica de Madrid 🇪🇸**  
 International academic experience
 
-⸻
+---
 
-🤝 Connect with me
+### 🤝 Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/alexisjpalma" target="_blank">
@@ -111,9 +120,9 @@ International academic experience
   </a>
 </p>
 
-📫 Email: palmaalexis017@gmail.com
+📫 **Email:** palmaalexis017@gmail.com
 
-⸻
+---
 
 <p align="center">
   <i>Always curious. Always building.</i>
